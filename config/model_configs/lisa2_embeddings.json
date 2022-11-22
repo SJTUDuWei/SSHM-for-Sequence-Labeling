@@ -1,0 +1,14 @@
+{
+  "embeddings": {
+    "word_type": {
+      "embedding_dim": 300,
+      "pretrained_embeddings": "/data/zj/unified_chinese_nlp/sgns.wiki.bigram-char"
+    },
+    "gold_pos": {
+      "embedding_dim": 25
+    },
+    "parse_label": {
+      "embedding_dim": 25
+    }
+  }
+}

@@ -1,0 +1,23 @@
+CUDA_VISIBLE_DEVICES=2  bin/train.sh config/conll05-lisa.conf --save_dir chinese >> chinese_model
+CUDA_VISIBLE_DEVICES=2  bin/train.sh config/conll05-lisa.conf --save_dir chinese >> chinese_model
+CUDA_VISIBLE_DEVICES=2  bin/train.sh config/conll05-lisa.conf --save_dir chinese >> chinese_model
+CUDA_VISIBLE_DEVICES=2  bin/train.sh config/conll05-lisa.conf --save_dir chinese >> chinese_model
+CUDA_VISIBLE_DEVICES=2  bin/train.sh config/conll05-lisa.conf --save_dir chinese >> chinese_model
+CUDA_VISIBLE_DEVICES=2  bin/train.sh config/conll05-lisa.conf --save_dir chinese >> chinese_model
+CUDA_VISIBLE_DEVICES=2  bin/train.sh config/conll05-lisa.conf --save_dir chinese >> chinese_model
+CUDA_VISIBLE_DEVICES=2  bin/train.sh config/conll05-lisa.conf --save_dir chinese >> chinese_model
+CUDA_VISIBLE_DEVICES=2  bin/train.sh config/conll05-lisa.conf --save_dir chinese >> chinese_model
+CUDA_VISIBLE_DEVICES=2  bin/train.sh config/conll05-lisa.conf --save_dir chinese >> chinese_model
+CUDA_VISIBLE_DEVICES=2  bin/train.sh config/conll05-lisa.conf --save_dir chinese >> chinese_model
+CUDA_VISIBLE_DEVICES=2  bin/train.sh config/conll05-lisa.conf --save_dir chinese >> chinese_model
+CUDA_VISIBLE_DEVICES=2  bin/train.sh config/conll05-lisa.conf --save_dir chinese >> chinese_model
+CUDA_VISIBLE_DEVICES=2  bin/train.sh config/conll05-lisa.conf --save_dir chinese >> chinese_model
+CUDA_VISIBLE_DEVICES=2  bin/train.sh config/conll05-lisa.conf --save_dir chinese >> chinese_model
+CUDA_VISIBLE_DEVICES=2  bin/train.sh config/conll05-lisa.conf --save_dir chinese >> chinese_model
+CUDA_VISIBLE_DEVICES=2  bin/train.sh config/conll05-lisa.conf --save_dir chinese >> chinese_model
+CUDA_VISIBLE_DEVICES=2  bin/train.sh config/conll05-lisa.conf --save_dir chinese >> chinese_model
+CUDA_VISIBLE_DEVICES=2  bin/train.sh config/conll05-lisa.conf --save_dir chinese >> chinese_model
+CUDA_VISIBLE_DEVICES=2  bin/train.sh config/conll05-lisa.conf --save_dir chinese >> chinese_model
+CUDA_VISIBLE_DEVICES=2  bin/train.sh config/conll05-lisa.conf --save_dir chinese >> chinese_model
+CUDA_VISIBLE_DEVICES=2  bin/train.sh config/conll05-lisa.conf --save_dir chinese >> chinese_model
+

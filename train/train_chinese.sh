@@ -1,0 +1,23 @@
+CUDA_VISIBLE_DEVICES=5  bin/train.sh config/conll05-lisa.conf --save_dir chinese_total >> chinese_total_model
+CUDA_VISIBLE_DEVICES=5  bin/train.sh config/conll05-lisa.conf --save_dir chinese_total >> chinese_total_model
+CUDA_VISIBLE_DEVICES=5  bin/train.sh config/conll05-lisa.conf --save_dir chinese_total >> chinese_total_model
+CUDA_VISIBLE_DEVICES=5  bin/train.sh config/conll05-lisa.conf --save_dir chinese_total >> chinese_total_model
+CUDA_VISIBLE_DEVICES=5  bin/train.sh config/conll05-lisa.conf --save_dir chinese_total >> chinese_total_model
+CUDA_VISIBLE_DEVICES=5  bin/train.sh config/conll05-lisa.conf --save_dir chinese_total >> chinese_total_model
+CUDA_VISIBLE_DEVICES=5  bin/train.sh config/conll05-lisa.conf --save_dir chinese_total >> chinese_total_model
+CUDA_VISIBLE_DEVICES=5  bin/train.sh config/conll05-lisa.conf --save_dir chinese_total >> chinese_total_model
+CUDA_VISIBLE_DEVICES=5  bin/train.sh config/conll05-lisa.conf --save_dir chinese_total >> chinese_total_model
+CUDA_VISIBLE_DEVICES=5  bin/train.sh config/conll05-lisa.conf --save_dir chinese_total >> chinese_total_model
+CUDA_VISIBLE_DEVICES=5  bin/train.sh config/conll05-lisa.conf --save_dir chinese_total >> chinese_total_model
+CUDA_VISIBLE_DEVICES=5  bin/train.sh config/conll05-lisa.conf --save_dir chinese_total >> chinese_total_model
+CUDA_VISIBLE_DEVICES=5  bin/train.sh config/conll05-lisa.conf --save_dir chinese_total >> chinese_total_model
+CUDA_VISIBLE_DEVICES=5  bin/train.sh config/conll05-lisa.conf --save_dir chinese_total >> chinese_total_model
+CUDA_VISIBLE_DEVICES=5  bin/train.sh config/conll05-lisa.conf --save_dir chinese_total >> chinese_total_model
+CUDA_VISIBLE_DEVICES=5  bin/train.sh config/conll05-lisa.conf --save_dir chinese_total >> chinese_total_model
+CUDA_VISIBLE_DEVICES=5  bin/train.sh config/conll05-lisa.conf --save_dir chinese_total >> chinese_total_model
+CUDA_VISIBLE_DEVICES=5  bin/train.sh config/conll05-lisa.conf --save_dir chinese_total >> chinese_total_model
+CUDA_VISIBLE_DEVICES=5  bin/train.sh config/conll05-lisa.conf --save_dir chinese_total >> chinese_total_model
+CUDA_VISIBLE_DEVICES=5  bin/train.sh config/conll05-lisa.conf --save_dir chinese_total >> chinese_total_model
+CUDA_VISIBLE_DEVICES=5  bin/train.sh config/conll05-lisa.conf --save_dir chinese_total >> chinese_total_model
+CUDA_VISIBLE_DEVICES=5  bin/train.sh config/conll05-lisa.conf --save_dir chinese_total >> chinese_total_model
+

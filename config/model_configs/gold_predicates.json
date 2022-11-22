@@ -1,0 +1,15 @@
+{
+  "embeddings": {
+    "word_type": {
+      "embedding_dim": 300,
+      "pretrained_embeddings": "/data/zj/unified_chinese_nlp/sgns.wiki.bigram-char"
+    },
+    "predicate": {
+      "embedding_dim": 100
+    }
+  },
+  "inputs": [
+   "word_type",
+   "predicate"
+ ]
+}
